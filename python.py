@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Password Strength Checker - In Class Challenge #1
+# Password Strength Checker
 # This script checks if a password is strong or weak
 
 # ============================================
@@ -159,9 +159,7 @@ print("🎉" * 25)
 print("\nYou successfully created a strong password!")
 print("=" * 50)
 
-# ============================================
-# CHECKLIST FOR INSTRUCTOR:
-# ============================================
+
 # ✓ Terminal input of data: line 35 (input function)
 # ✓ Variable declaration: lines 14, 17, 24-28, 37 (lists, booleans, integers)
 # ✓ Loops: lines 22-119 (while loop with continue), lines 55-73 (for loop)
@@ -169,3 +167,4 @@ print("=" * 50)
 # ✓ Casting: lines 61-62 (int(character) - string to integer), line 98 (str(number_count) - integer to string)
 # ✓ Flow statements: lines 44-47 (if with continue), lines 81-117 (if/elif/else)
 # ✓ Rudimentary terminal interface: lines 9-12, 40, 120-125
+
